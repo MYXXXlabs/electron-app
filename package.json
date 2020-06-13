@@ -2,7 +2,7 @@
   "name": "electron-app",
   "version": "1.0.0",
   "description": "A simple electron app for Enlight.nyc",
-  "main": "main.js",
+  "main": "./main.js",
   "scripts": {
     "test": "electron ."
   },
