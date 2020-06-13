@@ -1,0 +1,19 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "A simple electron app for Enlight.nyc",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MYXXXlabs/electron-app.git"
+  },
+  "author": "MYXXX labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MYXXXlabs/electron-app/issues"
+  },
+  "homepage": "https://github.com/MYXXXlabs/electron-app#readme"
+}
